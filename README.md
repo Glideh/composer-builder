@@ -12,3 +12,5 @@ $ docker-compose up
 ```
 
 Your vendors will be created into `vendors/`
+
+Some platform dependencies are configured, you might want to ajust them into `Dockerfile` to satisfy the requirements.
