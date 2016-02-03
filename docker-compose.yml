@@ -1,0 +1,6 @@
+php:
+    build: .
+    container_name: php
+    volumes:
+        - .:/data
+    command: /data/run.sh
