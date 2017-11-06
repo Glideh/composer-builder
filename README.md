@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Better using the [official composer image](https://hub.docker.com/r/library/composer/)
+
 # Composer Builder
 Docker box to build composer vendors for production.
 
